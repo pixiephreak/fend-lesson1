@@ -1,0 +1,12 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+	I learned a number of new tags. I also learned the difference between <b> and 	<strong>, as well as <i> and <em> .
+  * What has been easy?
+	Writing the html mark-up was easy. 
+  * What has been difficult?
+	It’s hard to know how much to push to Github, since it’s a public repo. I 
+	don’t know if I want basic exercises up there. Also, I don’t know if I should
+	use one repo per assignment or on for all of the FEND program.
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+	Sure. I used W3 to look up HTML5 tags!
+
